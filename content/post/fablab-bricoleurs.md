@@ -1,5 +1,9 @@
-### Le FabLab aux bricoleurs ! 
-
+---
+title: Le FabLab aux bricoleurs !
+date: 2020-12-02
+image:
+  focal_point: "top"
+---
 **Faire soi-même**
 
 Pour les ateliers en autonomie nous vous proposons la location d’un espace de travail (établis ou table), à l’heure ou à la demi-journée.
