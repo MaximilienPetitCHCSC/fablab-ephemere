@@ -21,8 +21,3 @@ design:
 Dans ce lieu nous partageons la volonté d’apprendre et de créer ensemble pour un impact social et environnemental positif.
 
 Notre manifeste ! (en permanente évolution :)
-
-Rendez-vous au 5 allée du Poitou à Bagneux !
-* Mercredi de 14h à 18h, « Le Fablab aux enfants »
-*  Vendredi de 10h à 18h, « La FabLAb aux bricoleurs »
-*  Samedis de 10h à 18h, « La FabLAb aux apprentis »
